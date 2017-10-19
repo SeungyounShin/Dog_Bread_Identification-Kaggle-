@@ -11,7 +11,7 @@ img_width, img_height = 244, 244
 train_data_dir = './train'
 nb_train_samples = 10222
 epochs = 50
-batch_size = 16
+batch_size = 19
 
 #image shape
 if K.image_data_format() == 'channels_first':
